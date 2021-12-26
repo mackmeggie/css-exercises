@@ -1,0 +1,14 @@
+.classy {
+    background-color: black;
+    color: whitesmoke;
+}
+
+.tooclassy {
+    background-color: yellow;
+}
+
+.classy,
+.tooclassy {
+    font-size: 28px;
+    font-family: Helvetica, 'Times New Roman', sans-serif;
+}
