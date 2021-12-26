@@ -1,0 +1,19 @@
+.classy {
+    background-color: lightcoral;
+    font-family: Verdana, sans-serif;
+}
+
+#iddy {
+    color: blue;
+    font-size: 36px;
+}
+
+#id2 {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.tooclassy {
+    font-size: 24px;
+}
